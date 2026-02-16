@@ -1,0 +1,2034 @@
+[
+    {
+        "productId": "RO-1001",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RO",
+        "createdBy": "0000000009",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000009",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000000",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.7,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 525,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RO-1001",
+                "language": "EN",
+                "shortDescription": "Roady 1001",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RO-1002",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RO",
+        "createdBy": "0000000009",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000009",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000001",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 8.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 689,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RO-1002",
+                "language": "EN",
+                "shortDescription": "Roady 1002",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RO-1003",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RO",
+        "createdBy": "0000000012",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000012",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000002",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 9.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 721,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RO-1003",
+                "language": "EN",
+                "shortDescription": "Roady 1003",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1011",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000009",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000009",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000003",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 11.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 249,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1011",
+                "language": "EN",
+                "shortDescription": "BMX Vintage 1011",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1012",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000006",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000006",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000004",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 399,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1012",
+                "language": "EN",
+                "shortDescription": "BMX Jump 1012",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1013",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000007",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000007",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000005",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 13.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 449,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1013",
+                "language": "EN",
+                "shortDescription": "BMX Jump Lux I",
+                "mediumDescription": "BWM Jump Luxury I",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1014",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000011",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000011",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000006",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 11.8,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 799,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1014",
+                "language": "EN",
+                "shortDescription": "BMX Jump Lux II",
+                "mediumDescription": "BWM Jump Luxury II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1015",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000008",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000008",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000007",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 299,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Penelope",
+            "lastName": "Duperr",
+            "middleName": "G",
+            "emailAddress": "penelope.duperre@itelo.info",
+            "loginName": "penelopef"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Penelope",
+            "lastName": "Duperr",
+            "middleName": "G",
+            "emailAddress": "penelope.duperre@itelo.info",
+            "loginName": "penelopef"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1015",
+                "language": "EN",
+                "shortDescription": "BMX Optima",
+                "mediumDescription": "BMX Optima",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "BX-1016",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "BX",
+        "createdBy": "0000000011",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000011",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000008",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.8,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 319,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "BX-1016",
+                "language": "EN",
+                "shortDescription": "BMX Optima II",
+                "mediumDescription": "BMX Optima II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CC-1021",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CC",
+        "createdBy": "0000000010",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000010",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000009",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 8.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1144,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Janet",
+            "lastName": "Gray",
+            "middleName": "R",
+            "emailAddress": "janet.gray@itelo.info",
+            "loginName": "janetf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Janet",
+            "lastName": "Gray",
+            "middleName": "R",
+            "emailAddress": "janet.gray@itelo.info",
+            "loginName": "janetf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CC-1021",
+                "language": "EN",
+                "shortDescription": "Cyclone Basic",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CC-1022",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CC",
+        "createdBy": "0000000013",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000013",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000010",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 8.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1200,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Carroll",
+            "lastName": "Pewitt",
+            "middleName": "S",
+            "emailAddress": "carroll.pewitt@itelo.info",
+            "loginName": "carrollm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Carroll",
+            "lastName": "Pewitt",
+            "middleName": "S",
+            "emailAddress": "carroll.pewitt@itelo.info",
+            "loginName": "carrollm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CC-1022",
+                "language": "EN",
+                "shortDescription": "Cyclone Speed",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CC-1023",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CC",
+        "createdBy": "0000000012",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000012",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000011",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 8.6,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1361,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CC-1023",
+                "language": "EN",
+                "shortDescription": "Cyclone III",
+                "mediumDescription": null,
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "MB-1031",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "MB",
+        "createdBy": "0000000012",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000012",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000012",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.7,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 649,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "MB-1031",
+                "language": "EN",
+                "shortDescription": "Mt Discovery B",
+                "mediumDescription": " Mountain Discovery Basic",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "MB-1032",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "MB",
+        "createdBy": "0000000002",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000002",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000013",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1299,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Philipp",
+            "lastName": "Egger",
+            "middleName": "T",
+            "emailAddress": "philipp.egger@itelo.info",
+            "loginName": "philippm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Philipp",
+            "lastName": "Egger",
+            "middleName": "T",
+            "emailAddress": "philipp.egger@itelo.info",
+            "loginName": "philippm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "MB-1032",
+                "language": "EN",
+                "shortDescription": "Mt Discovery Drive",
+                "mediumDescription": " Mountain Discovery Drive",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "MB-1033",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "MB",
+        "createdBy": "0000000007",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000007",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000014",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 13.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 3999,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "MB-1033",
+                "language": "EN",
+                "shortDescription": "Mt Discovery Rush",
+                "mediumDescription": " Mountain Discovery Rush",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "MB-1034",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "MB",
+        "createdBy": "0000000011",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000011",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000015",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 2499,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Nelson",
+            "lastName": "Wilkens",
+            "middleName": "J",
+            "emailAddress": "nelson.wilkens@itelo.info",
+            "loginName": "nelsonm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "MB-1034",
+                "language": "EN",
+                "shortDescription": "Mt Discovery Ulti",
+                "mediumDescription": "Mt Discovery Ultimate",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1051",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000001",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000001",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000016",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 2499,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1051",
+                "language": "EN",
+                "shortDescription": "Tornado I",
+                "mediumDescription": "Tornado I",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1052",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000005",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000005",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000017",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 3999,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1052",
+                "language": "EN",
+                "shortDescription": "Tornado II",
+                "mediumDescription": "Tornado II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1053",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000003",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000003",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000018",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 6.9,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 4599,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1053",
+                "language": "EN",
+                "shortDescription": "Stream I",
+                "mediumDescription": "Stream I",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1054",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000014",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000014",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000019",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 5499,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1054",
+                "language": "EN",
+                "shortDescription": "Stream II",
+                "mediumDescription": "Stream II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1055",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000002",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000002",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000020",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.2,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1999,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Philipp",
+            "lastName": "Egger",
+            "middleName": "T",
+            "emailAddress": "philipp.egger@itelo.info",
+            "loginName": "philippm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Philipp",
+            "lastName": "Egger",
+            "middleName": "T",
+            "emailAddress": "philipp.egger@itelo.info",
+            "loginName": "philippm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1055",
+                "language": "EN",
+                "shortDescription": "Veloflash",
+                "mediumDescription": "Veloflash",
+                "longDescription": null
+            },
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1055",
+                "language": "DE",
+                "shortDescription": "Rennsemmel",
+                "mediumDescription": "Rennsemmel",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1056",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000013",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000013",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000021",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.8,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 2499,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Carroll",
+            "lastName": "Pewitt",
+            "middleName": "S",
+            "emailAddress": "carroll.pewitt@itelo.info",
+            "loginName": "carrollm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Carroll",
+            "lastName": "Pewitt",
+            "middleName": "S",
+            "emailAddress": "carroll.pewitt@itelo.info",
+            "loginName": "carrollm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1056",
+                "language": "EN",
+                "shortDescription": "Veloflash SE ",
+                "mediumDescription": "Veloflash Second Edition",
+                "longDescription": null
+            },
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1056",
+                "language": "DE",
+                "shortDescription": "Rennsemmel 2",
+                "mediumDescription": "Rennsemmel 2",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "RC-1057",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "RC",
+        "createdBy": "0000000012",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000012",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000022",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 7.3,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 4999,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "RC-1057",
+                "language": "EN",
+                "shortDescription": "Veloflash Ultimate",
+                "mediumDescription": "Veloflash Ultimate",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "DB-1081",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "DB",
+        "createdBy": "0000000010",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000010",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000023",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 13.6,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1499,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Janet",
+            "lastName": "Gray",
+            "middleName": "R",
+            "emailAddress": "janet.gray@itelo.info",
+            "loginName": "janetf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Janet",
+            "lastName": "Gray",
+            "middleName": "R",
+            "emailAddress": "janet.gray@itelo.info",
+            "loginName": "janetf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "DB-1081",
+                "language": "EN",
+                "shortDescription": "Rooty Basic",
+                "mediumDescription": "Rooty Basic",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "DB-1082",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "DB",
+        "createdBy": "0000000004",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000004",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000024",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 14.3,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1250,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "William",
+            "lastName": "Mussen",
+            "middleName": "M",
+            "emailAddress": "william.mussen@itelo.info",
+            "loginName": "williamm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "William",
+            "lastName": "Mussen",
+            "middleName": "M",
+            "emailAddress": "william.mussen@itelo.info",
+            "loginName": "williamm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "DB-1082",
+                "language": "EN",
+                "shortDescription": "Capricorn",
+                "mediumDescription": "Capricorn",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "DB-1083",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "DB",
+        "createdBy": "0000000006",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000006",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000025",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 15.4,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1199,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "DB-1083",
+                "language": "EN",
+                "shortDescription": "Capricorn II",
+                "mediumDescription": "Capricorn II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1131",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000014",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000014",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000026",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 18.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1500,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1131",
+                "language": "EN",
+                "shortDescription": "Flash Drive",
+                "mediumDescription": "Flash Drive",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1132",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000014",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000014",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000027",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 18.8,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1900,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1132",
+                "language": "EN",
+                "shortDescription": "Flash Drive II",
+                "mediumDescription": "Flash Drive II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1133",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000005",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000005",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000028",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 21.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 2250,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1133",
+                "language": "EN",
+                "shortDescription": "Lazy Cat",
+                "mediumDescription": "Lazy Cat",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1134",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000004",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000004",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000029",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 20.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 4800,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "William",
+            "lastName": "Mussen",
+            "middleName": "M",
+            "emailAddress": "william.mussen@itelo.info",
+            "loginName": "williamm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "William",
+            "lastName": "Mussen",
+            "middleName": "M",
+            "emailAddress": "william.mussen@itelo.info",
+            "loginName": "williamm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1134",
+                "language": "EN",
+                "shortDescription": "Lazy Cat II",
+                "mediumDescription": "Lazy Cat II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1135",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000012",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000012",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000030",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 19.3,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 3000,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Willard",
+            "lastName": "Chatman",
+            "middleName": "R",
+            "emailAddress": "willard.chatman@itelo.info",
+            "loginName": "willardm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1135",
+                "language": "EN",
+                "shortDescription": "Speedeon",
+                "mediumDescription": "Speedeon",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1136",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000007",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000007",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000031",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 20.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 5000,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1136",
+                "language": "EN",
+                "shortDescription": "Speedeon Light",
+                "mediumDescription": "Speedeon Light",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "EB-1137",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "EB",
+        "createdBy": "0000000006",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000006",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000032",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 22.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 7900,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "EB-1137",
+                "language": "EN",
+                "shortDescription": "Speedeon Cross",
+                "mediumDescription": "Speedeon Cross",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CB-1161",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CB",
+        "createdBy": "0000000006",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000006",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000033",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 15.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 399,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Haseenaal",
+            "lastName": "Yousuf",
+            "middleName": null,
+            "emailAddress": "alhaseena.yousuf@itelo.info",
+            "loginName": "haseenaalf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CB-1161",
+                "language": "EN",
+                "shortDescription": "La Plage",
+                "mediumDescription": "La Plage",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CB-1162",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CB",
+        "createdBy": "0000000009",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000009",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000034",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 18.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 400,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kirk",
+            "lastName": "Lee",
+            "middleName": "J",
+            "emailAddress": "kirk.lee@itelo.info",
+            "loginName": "kirkm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CB-1162",
+                "language": "EN",
+                "shortDescription": "La Plage Limited",
+                "mediumDescription": "La Plage Limited",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "CB-1163",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "CB",
+        "createdBy": "0000000014",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000014",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000035",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 16.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 288,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Kenneth",
+            "lastName": "Weise",
+            "middleName": "H",
+            "emailAddress": "kenneth.weise@itelo.info",
+            "loginName": "kennethm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "CB-1163",
+                "language": "EN",
+                "shortDescription": "La Plage Gold",
+                "mediumDescription": "La Plage Gold",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1171",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000001",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000001",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000036",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 11.0,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 699,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1171",
+                "language": "EN",
+                "shortDescription": "Star Cruise",
+                "mediumDescription": "Star Cruise",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1172",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000001",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000001",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000037",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.1,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 799,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Derrick",
+            "lastName": "Magill",
+            "middleName": "L",
+            "emailAddress": "derrick.magill@itelo.info",
+            "loginName": "derrickm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1172",
+                "language": "EN",
+                "shortDescription": "Star Cruise II",
+                "mediumDescription": "Star Cruise II",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1173",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000003",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000003",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000038",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 13.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 649,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1173",
+                "language": "EN",
+                "shortDescription": "Universal One",
+                "mediumDescription": "Universal One",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1174",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000003",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000003",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000039",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 11.8,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 379,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Ellis",
+            "lastName": "Robertson",
+            "middleName": "K",
+            "emailAddress": "ellis.robertson@itelo.info",
+            "loginName": "ellism"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1174",
+                "language": "EN",
+                "shortDescription": "Universal Two",
+                "mediumDescription": "Universal Two",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1175",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000007",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000007",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000040",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.5,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 899,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Roberta",
+            "lastName": "Holloway",
+            "middleName": "M",
+            "emailAddress": "roberta.holloway@itelo.info",
+            "loginName": "robertaf"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1175",
+                "language": "EN",
+                "shortDescription": "Specifica",
+                "mediumDescription": "Specifica",
+                "longDescription": null
+            }
+        ]
+    },
+    {
+        "productId": "HB-1176",
+        "entityType": "Product",
+        "typeCode": "PR",
+        "prodCategoryId": "HB",
+        "createdBy": "0000000005",
+        "createdDateTime": 20181003,
+        "modifiedBy": "0000000005",
+        "modifiedDateTime": 20181003,
+        "vendorId": "0100000041",
+        "taxTariffCode": "1",
+        "quantityUnit": "EA",
+        "weightMeasure": 12.9,
+        "weightUnit": "KG",
+        "currency": "USD",
+        "price": 1199,
+        "width": null,
+        "depth": null,
+        "height": null,
+        "dimensionUnit": null,
+        "productPicUrl": null,
+        "createdByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "modifiedByEmpl": {
+            "entityType": "Employee",
+            "firstName": "Javas",
+            "lastName": "Hegde",
+            "middleName": null,
+            "emailAddress": "javas.hegde@itelo.info",
+            "loginName": "javasm"
+        },
+        "texts": [
+            {
+                "entityType": "ProductText",
+                "productId": "HB-1176",
+                "language": "EN",
+                "shortDescription": "Specifica Gold",
+                "mediumDescription": "Specifica Gold",
+                "longDescription": null
+            }
+        ]
+    }
+]
