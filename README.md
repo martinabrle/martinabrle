@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working as a Partner Solution Architect for Data workloads at Microsoft
-- 🌱 I’m learning security ... and improving my prompt engineering (or "TAB-engineering") skills daily 
+- 👷 There is nothing to find here, only tutorials I followed and various tests
 - 📫 Say hi on  [Linkedin](https://www.linkedin.com/in/martinabrle)
